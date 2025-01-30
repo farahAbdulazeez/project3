@@ -10,5 +10,12 @@ public class DemoTest3 {
 				
 				System.out.println(result);
 	}
+	int a = 10;
+	int b = 10;
+
+	if(a == b){
+	System.out.println("equal");
+}else{
+	System.out.println("not equal");
 
 }
